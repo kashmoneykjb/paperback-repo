@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "example",
+      "name": "My Custom Source",
+      "author": "YourName",
+      "desc": "A custom Paperback source",
+      "icon": "icon.png",
+      "websiteBaseURL": "https://example.com",
+      "contentRating": "MATURE",
+      "version": "1.0.0"
+    }
+  ]
+}
